@@ -152,7 +152,7 @@ header{
 
 
 @media (max-width: 1080px){
-    header{background-image: url("/images/thumbnail3.png")}
+    header{background-image: url("images/thumbnail3.png")}
 
     #main-top-bar{
         height: 300px;
@@ -215,3 +215,4 @@ header{
     }
 
 }
+
