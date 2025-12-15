@@ -11,7 +11,7 @@ header{
     height: 100vh;
     background-color: red;
 
-    background-image: url("/images/thumbnail4.png");
+    background-image: url("../images/thumbnail4.png");
     background-size: cover;
     background-position: center;
 }
@@ -152,7 +152,7 @@ header{
 
 
 @media (max-width: 1080px){
-    header{background-image: url("/images/thumbnail3.png")}
+    header{background-image: url("../images/thumbnail3.png")}
 
     #main-top-bar{
         height: 300px;
@@ -215,5 +215,6 @@ header{
     }
 
 }
+
 
 
