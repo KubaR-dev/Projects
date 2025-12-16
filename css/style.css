@@ -156,6 +156,7 @@ header{
 
     #main-top-bar{
         height: 300px;
+        width: 1080px;
     }
 
     #top-bar__left{
@@ -215,6 +216,7 @@ header{
     }
 
 }
+
 
 
 
