@@ -198,7 +198,7 @@ header{
     }
 
     .mobile-menu {
-        display: flex;
+        display: none;
         position: absolute;
         width: 30%;
 
@@ -217,6 +217,7 @@ header{
     }
 
 }
+
 
 
 
