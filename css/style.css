@@ -63,7 +63,7 @@ header{
 .top-bar__links{
     text-decoration: none;
     font-size: 20px;
-    color: white;
+    color: red;
     font-family: sans-serif;
     font-weight: bold;
 }
@@ -217,6 +217,7 @@ header{
     }
 
 }
+
 
 
 
