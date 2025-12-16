@@ -156,7 +156,8 @@ header{
 
     #main-top-bar{
         height: 300px;
-        width: 1080px;
+        max-width: 100%;
+        width: auto;
     }
 
     #top-bar__left{
@@ -216,6 +217,7 @@ header{
     }
 
 }
+
 
 
 
