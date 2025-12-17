@@ -131,9 +131,9 @@ body{
 }
 
 .mobile-menu{
-    
-    height: 2000px;
     display: none;
+    height: 2000px;
+    
     background-color: rgba(54,69,79, .8);
     top: 320px;
     right: -100%;
@@ -142,6 +142,7 @@ body{
     
 
 .mobile-menu.open{
+    display: none;
     height: 2000px;
     display: flex;
     background-color: rgba(54,69,79, .8);
@@ -217,3 +218,4 @@ body{
         text-decoration: none;
     }
 }
+
