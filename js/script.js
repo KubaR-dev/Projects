@@ -1,6 +1,4 @@
-const button= document.GetElementById("hamburger__button")
-const menu = document.GetElementByClass(".mobile-menu")
+const hamburger = document.querySelector('.hamburger')
+const mobileMenu = document.querySelector('.mobile-menu')
 
-button.addEventListener("click", () => {
-  menu.classlist.toggle("open")
-})
+hamburger.addEventListener('click', () => {mobileMenu.classList.toggle('open')})
