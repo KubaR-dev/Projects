@@ -133,7 +133,7 @@ body{
 
 .mobile-menu{
     display: none;
-    height: 2000px;
+    height: 90vh;
     
     background-color: rgba(54,69,79, .8);
     top: 320px;
@@ -223,6 +223,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
