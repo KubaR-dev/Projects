@@ -200,7 +200,7 @@ body{
     }
 
     .mobile-menu {
-        display: flex;
+        display: non;
         position: absolute;
         width: 30%;
 
@@ -218,4 +218,5 @@ body{
         text-decoration: none;
     }
 }
+
 
