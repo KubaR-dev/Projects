@@ -143,11 +143,10 @@ body{
     
 
 .mobile-menu.open{
-    display: none;
-    height: 2000px;
+    height: 90vh;
     display: flex;
     background-color: rgba(54,69,79, .8);
-    top: 320px;
+    top: 10vh;
     right: 0%;
 }
 
@@ -224,6 +223,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
