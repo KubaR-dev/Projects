@@ -125,7 +125,7 @@ header{
     background-color: transparent;
     border: none;
     font-size: 32px;
-    color: yellow;
+    color: white;
     cursor: pointer;
 }
 
@@ -156,8 +156,6 @@ header{
 
     #main-top-bar{
         height: 300px;
-        max-width: 100%;
-        width: auto;
     }
 
     #top-bar__left{
@@ -198,7 +196,7 @@ header{
     }
 
     .mobile-menu {
-        display: none;
+        display: flex;
         position: absolute;
         width: 30%;
 
@@ -215,14 +213,4 @@ header{
         font-size: 50px;
         text-decoration: none;
     }
-
 }
-
-
-
-
-
-
-
-
-
