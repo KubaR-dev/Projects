@@ -155,6 +155,8 @@ body{
 
 @media (max-width: 1080px){
     #showcase{
+        height: 100vh;
+        width: 100vw;
         background-image: url("../images/thumbnail3.png");
         background-size: cover;
         background-position: center;
@@ -226,6 +228,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
