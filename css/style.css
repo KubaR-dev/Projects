@@ -7,7 +7,7 @@ body{
 /**/
 
 #showcase{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: red;
 
@@ -19,7 +19,7 @@ body{
 }
 
 #main-top-bar{
-    width: 100%;
+    width: 100vw;
     height: 10vh;
     padding: 1% 0%;
 
@@ -162,7 +162,7 @@ body{
     }
 
     #main-top-bar{
-        height: 80vh;
+        height: 10vh;
         width: 100vw;
     }
 
@@ -191,7 +191,8 @@ body{
     .hamburger{
         
         height: 80%;
-        width: 25%;
+        aspect-ratio: 1/1;
+        
         
         display: flex;
         flex: 1;
@@ -225,6 +226,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
