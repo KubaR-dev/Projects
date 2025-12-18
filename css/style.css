@@ -162,7 +162,7 @@ body{
     }
 
     #main-top-bar{
-        height: 8vh;
+        height: 80vh;
         width: 100vw;
     }
 
@@ -225,6 +225,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
