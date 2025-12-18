@@ -21,7 +21,7 @@ body{
 #main-top-bar{
     width: 100%;
     height: 10vh;
-    padding: 10px 0px;
+    padding: 1% 0%;
 
     background-color: rgba(54,69,79, .8);
     display: flex;
@@ -162,7 +162,8 @@ body{
     }
 
     #main-top-bar{
-        height: 10vh;
+        height: 5vh;
+        width: 100vw;
     }
 
     #top-bar__left{
@@ -173,7 +174,8 @@ body{
     }
 
     #Logo-DanieL{
-        height: 150px;
+        max-height: 100%;
+        height: auto;
         max-width: 100%;
         width: auto;
     }
@@ -188,7 +190,7 @@ body{
     
     .hamburger{
         
-        height: 300px;
+        height: 80%;
         width: 25%;
         
         display: flex;
@@ -207,7 +209,7 @@ body{
     .mobile-menu {
         display: non;
         position: absolute;
-        width: 30%;
+        width: 30vw;
 
         
         flex-direction: column;
@@ -223,6 +225,7 @@ body{
         text-decoration: none;
     }
 }
+
 
 
 
